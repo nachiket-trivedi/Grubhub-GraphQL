@@ -1,0 +1,14 @@
+export const LOGIN = "LOGIN";
+export const SIGNUP = "SIGNUP";
+export const UPDATECUST = "UPDATECUST";
+export const SHOW_CUST_PROFILE = "SHOW_CUST_PROFILE";
+export const BROWSE_REST = "BROWSE_REST";
+export const CART_DETAILS = "CART_DETAILS";
+export const SEARCH = "SEARCH";
+export const FILTER_CUISINE = "FILTER_CUISINE";
+export const SHOW_ORDERS_CUST = "SHOW_ORDERS_CUST";
+export const SHOW_ORDERS_REST = "SHOW_ORDERS_REST";
+export const UPDATEREST = "UPDATEREST";
+export const SHOW_REST_PROFILE = "SHOW_REST_PROFILE";
+export const SHOW_MESSAGES_CUST = "SHOW_MESSAGES_CUST";
+export const SHOW_MESSAGES_REST = "SHOW_MESSAGES_REST";
